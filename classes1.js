@@ -56,3 +56,7 @@ console.log("this is Price : ",phone.price);
 console.log(phone);
 
 // ---------------------------------------------------------
+
+// will soon remove
+console.log(":");
+//
