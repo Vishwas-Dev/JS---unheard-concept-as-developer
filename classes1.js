@@ -55,18 +55,5 @@ phone.price = -200; // condition fails p>0
 console.log("this is Price : ",phone.price);
 console.log(phone);
 
-// ---------------------------------------------------------
 
-class Product {
-  
-  constructor(name, price, description) {
-    this.name = name;
-    this.price = price;
-    this.description = description;
-  }
-
-}
-const phone = new Product( "vishal", 999, "this is New");
-
-console.log(phone);
 
