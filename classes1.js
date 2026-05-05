@@ -85,3 +85,5 @@ const phone = new Product( "vishal", 999, "this is New");
 
 console.log(phone);
 console.log(phone);
+console.log(phone);
+console.log(phone);
